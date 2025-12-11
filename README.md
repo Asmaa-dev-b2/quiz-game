@@ -59,6 +59,6 @@ Players answer 10 questions, and at the end, a score is displayed along with fee
 -Save player scores in a database
 
 -Add difficulty levels
-Red → Wrong answer
 
-🔤 Fonts Used
+Show which questions the player answered incorrectly
+

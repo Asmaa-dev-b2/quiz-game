@@ -61,5 +61,5 @@ Players answer 10 questions, and at the end, a score is displayed along with fee
 
 -Add difficulty levels
 
-Show which questions the player answered incorrectly
+-Show which questions the player answered incorrectly
 

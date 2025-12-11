@@ -1,10 +1,10 @@
-Quiz Game – Python + Pygame
+# Quiz Game – Python + Pygame
 
 _ Description
 A simple interactive multiple-choice quiz game built with Python and Pygame.
 Players answer 10 questions, and at the end, a score is displayed along with feedback.
 
-_ Features
+# Features
 
 -10 multiple-choice questions
 
@@ -16,7 +16,7 @@ _ Features
 
 -Easy to modify questions
 
-_How It Works
+#How It Works
 
 -The game loads 10 quiz questions.
 
@@ -26,7 +26,7 @@ _How It Works
 
 -After the last question → Results screen appears.
 
-_ Color Palette
+# Color Palette
 
 -White → Text, background
 
@@ -38,7 +38,7 @@ _ Color Palette
 
 -Green → Correct answer
 
-_Fonts Used
+# Fonts Used
 
 -Title font → Large, bold
 
@@ -48,7 +48,7 @@ _Fonts Used
 
 -Result font → Large and highlighted
 
-_Future Improvements
+# Future Improvements
 
 -Add sound effects
 

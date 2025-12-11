@@ -16,7 +16,7 @@ Players answer 10 questions, and at the end, a score is displayed along with fee
 
 -Easy to modify questions
 
-#How It Works
+# How It Works
 
 -The game loads 10 quiz questions.
 

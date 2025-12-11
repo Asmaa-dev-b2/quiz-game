@@ -1,6 +1,7 @@
 # Quiz Game – Python + Pygame
 
-_ Description
+# Description
+
 A simple interactive multiple-choice quiz game built with Python and Pygame.
 Players answer 10 questions, and at the end, a score is displayed along with feedback.
 
